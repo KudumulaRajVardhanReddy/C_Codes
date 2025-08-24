@@ -1,3 +1,3 @@
 # C-Codes
 
-Enough C examples to score high in College C course(Programming for problem solving, etc).
+Enough C examples to score a high grade in College C course(Programming for problem solving, etc).
